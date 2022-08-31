@@ -1,0 +1,36 @@
+header {
+  top: 0;
+  background-color: #ffe66d;
+  width: 100%;
+  position: fixed;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 200px;
+  box-sizing: border-box;
+}
+.logo {
+  text-decoration: none;
+  color: #343434;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 1.8em;
+}
+.navigation a {
+  text-decoration: none;
+  color: #343434;
+  font-size: 1.1em;
+  font-weight: 600;
+  padding-left: 30px;
+}
+.navigation a:hover {
+  font-size: 1.3em;
+}
+
+/* 
+#343434 - black
+#f7fff7 - white
+#ffe66d - yellow
+#2f3061 - blue
+ */

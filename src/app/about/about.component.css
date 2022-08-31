@@ -1,0 +1,12 @@
+body {
+  background-color: #f7fff7;
+  margin: 0;
+  padding: 0;
+  border: 1px black solid;
+}
+.logo {
+  padding-top: 150px;
+}
+.visionMission {
+  padding: 45px 0px;
+}
